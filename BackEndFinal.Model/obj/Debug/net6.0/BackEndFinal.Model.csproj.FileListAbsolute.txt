@@ -1,0 +1,12 @@
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\bin\Debug\net6.0\BackEndFinal.Model.deps.json
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\bin\Debug\net6.0\BackEndFinal.Model.dll
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\bin\Debug\net6.0\BackEndFinal.Model.pdb
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\BackEndFinal.Model.csproj.AssemblyReference.cache
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\BackEndFinal.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\BackEndFinal.Model.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\BackEndFinal.Model.AssemblyInfo.cs
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\BackEndFinal.Model.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\BackEndFinal.Model.dll
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\refint\BackEndFinal.Model.dll
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\BackEndFinal.Model.pdb
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Model\obj\Debug\net6.0\ref\BackEndFinal.Model.dll

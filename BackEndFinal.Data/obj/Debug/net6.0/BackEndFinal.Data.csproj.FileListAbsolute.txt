@@ -1,0 +1,15 @@
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\bin\Debug\net6.0\BackEndFinal.Data.deps.json
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\bin\Debug\net6.0\BackEndFinal.Data.dll
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\bin\Debug\net6.0\BackEndFinal.Data.pdb
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\bin\Debug\net6.0\BackEndFinal.Model.dll
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\bin\Debug\net6.0\BackEndFinal.Model.pdb
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\BackEndFinal.Data.csproj.AssemblyReference.cache
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\BackEndFinal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\BackEndFinal.Data.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\BackEndFinal.Data.AssemblyInfo.cs
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\BackEndFinal.Data.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\BackEndFinal.Data.csproj.CopyComplete
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\BackEndFinal.Data.dll
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\refint\BackEndFinal.Data.dll
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\BackEndFinal.Data.pdb
+C:\Users\lenin\source\repos\BackEndFinal\BackEndFinal.Data\obj\Debug\net6.0\ref\BackEndFinal.Data.dll
